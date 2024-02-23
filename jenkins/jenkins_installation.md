@@ -12,7 +12,7 @@ Jenkins is a self-contained Java-based program, ready to run out-of-the-box, wit
 1. Java 11 should be installed  
 
 
-## Install Jenkins
+## Install Jenkins adding something here
  You can install jenkins using the rpm or by setting up the repo. We will set up the repo so that we can update it easily in the future.
 1. Get the latest version of jenkins from https://pkg.jenkins.io/redhat-stable/ and install
    ```sh
